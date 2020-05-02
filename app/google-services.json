@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "247835299401",
+    "firebase_url": "https://isaiahshembeonline.firebaseio.com",
+    "project_id": "isaiahshembeonline",
+    "storage_bucket": "isaiahshembeonline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247835299401:android:bc66acf981af603155f998",
+        "android_client_info": {
+          "package_name": "com.example.isaiahshembeonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247835299401-d1rai5521k2cua3dc2k6aclunc6ki731.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPJ7hNWXiY36BiJ4f_qVDjJ0AQr_OqROk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247835299401-d1rai5521k2cua3dc2k6aclunc6ki731.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
